@@ -27,4 +27,14 @@ const WRITEUP_REGISTRY = [
     tags:        ["programming"],
     description: "AI fitness web app — pose estimation, exercise form analysis, body proportions from photos, diet tracking and social feed. FastAPI + React.",
   },
+  {
+    slug:        "thm-lookup",
+    title:       "TryHackMe — Lookup",
+    date:        "2026-03-19",
+    platform:    "TryHackMe",
+    os:          "Linux",
+    difficulty:  "easy",
+    tags:        ["web", "pwn"],
+    description: "Username enumeration via differential error messages, elFinder RCE (CVE-2019-9194), PATH hijacking to extract credentials, sudo look GTFOBins privesc to root.",
+  },
 ];
