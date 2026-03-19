@@ -298,7 +298,6 @@ chmod +x /tmp/id
 jose1006
 jose1004
 jose1002
-jose1001teles
 ...</code></pre>
 </div>
  
