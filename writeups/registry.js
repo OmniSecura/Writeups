@@ -37,4 +37,14 @@ const WRITEUP_REGISTRY = [
     tags:        ["web", "pwn"],
     description: "Username enumeration via differential error messages, elFinder RCE (CVE-2019-9194), PATH hijacking to extract credentials, sudo look GTFOBins privesc to root.",
   },
+  {
+    slug:        "thm-compiled",
+    title:       "TryHackMe — Compiled",
+    date:        "2026-03-19",
+    platform:    "TryHackMe",
+    os:          "Linux",
+    difficulty:  "easy",
+    tags:        ["rev"],
+    description: "5 Minute Hacks series — reverse engineering a compiled binary with Ghidra. Analysing scanf format string behaviour to recover the correct password.",
+  },
 ];
