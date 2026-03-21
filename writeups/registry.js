@@ -47,4 +47,14 @@ const WRITEUP_REGISTRY = [
     tags:        ["rev"],
     description: "5 Minute Hacks series — reverse engineering a compiled binary with Ghidra. Analysing scanf format string behaviour to recover the correct password.",
   },
+  {
+    slug:        "thm-cupids-matchmaker",
+    title:       "TryHackMe — Cupid's Matchmaker",
+    date:        "2026-03-21",
+    platform:    "TryHackMe",
+    os:          "Linux",
+    difficulty:  "easy",
+    tags:        ["web"],
+    description: "Stored XSS via a survey form — cookie-stealing payload executed by an admin viewing submissions, flag leaked via a local HTTP listener.",
+  },
 ];
